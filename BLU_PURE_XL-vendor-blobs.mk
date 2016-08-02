@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/6620_wmt_lpbk:system/bin/6620_wmt_lpbk \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/AcdApiDaemon:system/bin/AcdApiDaemon \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/MtkCodecService:system/bin/MtkCodecService \
-    vendor/BLU/BLU_PURE_XL/proprietary/bin/aal:system/bin/aal \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/aee:system/bin/aee \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/aee_archive:system/bin/aee_archive \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/aee_core_forwarder:system/bin/aee_core_forwarder \
@@ -91,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/mtkrild:system/bin/mtkrild \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/mtkrildmd2:system/bin/mtkrildmd2 \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/muxreport:system/bin/muxreport \
-    vendor/BLU/BLU_PURE_XL/proprietary/bin/netcfg:system/bin/netcfg \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/netdiag:system/bin/netdiag \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
@@ -107,7 +105,6 @@ PRODUCT_COPY_FILES += \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/racoon:system/bin/racoon \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/radvd:system/bin/radvd \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/rtt:system/bin/rtt \
-    vendor/BLU/BLU_PURE_XL/proprietary/bin/run-as:system/bin/run-as \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/s62xd:system/bin/s62xd \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/screencolor:system/bin/screencolor \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/sn:system/bin/sn \
