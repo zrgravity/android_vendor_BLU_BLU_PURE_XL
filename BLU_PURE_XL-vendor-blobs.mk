@@ -37,12 +37,12 @@ PRODUCT_COPY_FILES += \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/badblocks:system/bin/badblocks \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/batterywarning:system/bin/batterywarning \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/boot_logo_updater:system/bin/boot_logo_updater \
-    vendor/BLU/BLU_PURE_XL/proprietary/bin/evi:system/bin/evi \
+#    vendor/BLU/BLU_PURE_XL/proprietary/bin/evi:system/bin/evi \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/factory:system/bin/factory \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/fotabinder:system/bin/fotabinder \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/lcdc_screen_cap:system/bin/lcdc_screen_cap \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/yamaha537:system/bin/yamaha537 \
-    vendor/BLU/BLU_PURE_XL/proprietary/bin/bmi160d:system/bin/bmi160d \
+#    vendor/BLU/BLU_PURE_XL/proprietary/bin/bmi160d:system/bin/bmi160d \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/bmm050d:system/bin/bmm050d \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/btconfig:system/bin/btconfig \
     vendor/BLU/BLU_PURE_XL/proprietary/bin/btlogmask:system/bin/btlogmask \
